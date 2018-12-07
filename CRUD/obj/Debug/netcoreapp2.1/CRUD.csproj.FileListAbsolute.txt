@@ -1,0 +1,11 @@
+/home/eu/Documents/LP2/CRUD/bin/Debug/netcoreapp2.1/CRUD.deps.json
+/home/eu/Documents/LP2/CRUD/bin/Debug/netcoreapp2.1/CRUD.runtimeconfig.json
+/home/eu/Documents/LP2/CRUD/bin/Debug/netcoreapp2.1/CRUD.runtimeconfig.dev.json
+/home/eu/Documents/LP2/CRUD/bin/Debug/netcoreapp2.1/CRUD.dll
+/home/eu/Documents/LP2/CRUD/bin/Debug/netcoreapp2.1/CRUD.pdb
+/home/eu/Documents/LP2/CRUD/obj/Debug/netcoreapp2.1/CRUD.csprojAssemblyReference.cache
+/home/eu/Documents/LP2/CRUD/obj/Debug/netcoreapp2.1/CRUD.csproj.CoreCompileInputs.cache
+/home/eu/Documents/LP2/CRUD/obj/Debug/netcoreapp2.1/CRUD.AssemblyInfoInputs.cache
+/home/eu/Documents/LP2/CRUD/obj/Debug/netcoreapp2.1/CRUD.AssemblyInfo.cs
+/home/eu/Documents/LP2/CRUD/obj/Debug/netcoreapp2.1/CRUD.dll
+/home/eu/Documents/LP2/CRUD/obj/Debug/netcoreapp2.1/CRUD.pdb
